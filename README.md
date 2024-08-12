@@ -1,0 +1,1 @@
+Bir Web API uygulaması, kitap kayıtları üzerinde, id ile listeleme [HttpGet], tüm kitapları listeleme [HttpGet], silme [HttpDelete], ekleme [HttpPost], değiştirme [HttpPatch] işlemleri yapıldı. Hazır dizi elemanları kullanıldı.
